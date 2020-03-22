@@ -4,7 +4,7 @@ body {
 }
 
 Html, body {
-  background-image: url('./CasaMilo.JPG');
+  background-image: url('CasaMilo.JPG');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
