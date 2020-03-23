@@ -4,7 +4,7 @@ body {
 }
 
 .blurb {
-  animation: mymove 5s infinite;
+  background: peach;
 }
 
 nav ul, footer ul {
