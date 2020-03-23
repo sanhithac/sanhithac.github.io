@@ -1,10 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-}
-
-.blurb {
-  background: peach;
+    background-color: peach;
 }
 
 nav ul, footer ul {
