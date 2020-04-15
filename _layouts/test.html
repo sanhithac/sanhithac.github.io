@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
+    
     <head>
  			<title>{{ page.title }}</title>
  			<!-- link to main stylesheet -->
  			<link rel="stylesheet" type="text/css" href="/css/main.css">
  	</head>
+    
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
     {{ content }}
+        
     </body>
+    
 </html>
